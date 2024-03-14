@@ -1,7 +1,7 @@
 # Crash Of The Titans Texture Pack
 This is a texture pack created for the PlayStation 2 version of the game. Most of these textures were taken from the Xbox 360 version of the game. Others were upscaled or modified.
 ## Compatibility
-It's compatible with all three regions of the game:
+It's compatible with all the regions of the game:
 -   NTSC-U (SLUS-21583)
 -   PAL (SLES-54841)
 ## Content
