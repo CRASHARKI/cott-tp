@@ -11,7 +11,6 @@ These are the improved textures included in this pack:
 -   Uka Uka red evil shield (Xbox 360 edit).
 -   Various Crash textures (Xbox 360).
 -   Various Carbon Crash textures (Xbox 360 edit).
--   Uka Uka red evil shield (Xbox 360 edit).
 -   Frontend (Mix of Xbox 360 and upscaled).
 -   World textures (Xbox 360).
 -   Main Menu (Mix of Xbox 360 and upscaled).
