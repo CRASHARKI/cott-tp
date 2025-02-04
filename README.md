@@ -3,7 +3,7 @@ This is a texture pack created for the PlayStation 2 version of the game. Most o
 ## Compatibility
 It's compatible with all the regions of the game:
 -   NTSC-U (SLUS-21583)
--   PAL (SLES-54841)
+-   PAL (SLES-54841, SLES-54842, SLES-54843)
 ## Content
 These are the improved textures included in this pack:
 -   Cutscene characters (Xbox 360).
@@ -15,9 +15,10 @@ These are the improved textures included in this pack:
 -   Frontend (Mix of Xbox 360 and upscaled).
 -   World textures (Xbox 360).
 -   Main Menu (Mix of Xbox 360 and upscaled).
--   PlayStation button prompts (Upscaled/recreated).
 -   Voodoo Dolls (Xbox 360).
--   Xbox 360 button prompts (Delete "PlayStation Buttons" folder to use).
+-   PlayStation button prompts (Upscaled/recreated).
+-   Wii Classic Controller button prompts (Upscaled/recreated) (Delete other Buttons folders to use).
+-   Xbox 360 button prompts (Delete other Buttons folders to use).
 -   All the found PAL font variants (Delete if too much weight).
 ## How to use
 Click on the "Code" button and select Download ZIP to download the pack. To use this texture pack you need PCSX2. Go into "textures" folder, if it doesn't exist create a folder with the game serial you're going to use (e.g. "SLES-XXXXX"), inside this folder create a folder named "replacements", and extract the texture pack inside. Your address should look something like this: "PCSX2\textures\SLES-XXXXX\replacements". To activate the texture pack, go to "Graphics" settings, "Texture Replacement" tab and activate "Load Textures", "Asynchronous Texture Loading" and "Prechache Textures".
