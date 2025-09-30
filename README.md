@@ -11,8 +11,8 @@ These are the improved textures included in this pack:
 -   Fixed Coco hypnotised eyes.
 -   Uka Uka red evil shield (Xbox 360 edit).
 -   Various Crash textures (Xbox 360).
--   Unlockable Skins (Xbox 360).
 -   Various Carbon Crash textures (Xbox 360 edit).
+-   Unlockable Skins (Xbox 360).
 -   Frontend (Mix of Xbox 360 and upscaled).
 -   World textures (Xbox 360).
 -   Main Menu (Mix of Xbox 360 and upscaled).
